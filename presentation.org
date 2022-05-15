@@ -1,0 +1,17 @@
+* Small Turing Machines in Tile Automata
+** What is Tile Automata?
+*** Self Assembly
+**** Abstract Tile Assembly Model (aTAM)
+**** Tile Automata
+** Goal of Project
+*** Simulating a Turing Machine
+*** Low assembly complexity
+*** What problems have lower assembly complexity?
+** Journal
+*** Natural Computing
+** Paper
+*** Construction
+**** Assemblies
+**** Simulating a Turing Machine
+**** Assembly Complexity of Construction
+*** Research Methods

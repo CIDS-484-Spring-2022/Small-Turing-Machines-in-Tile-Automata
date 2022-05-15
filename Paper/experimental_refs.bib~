@@ -1,0 +1,476 @@
+@Article{Zhang2017,
+author={Zhang, Yin
+and McMullen, Angus
+and Pontani, Lea-Laetitia
+and He, Xiaojin
+and Sha, Ruojie
+and Seeman, Nadrian C.
+and Brujic, Jasna
+and Chaikin, Paul M.},
+title={Sequential self-assembly of DNA functionalized droplets},
+journal={Nature Communications},
+year={2017},
+volume={8},
+number={1},
+pages={21},
+abstract={Complex structures and devices, both natural and manmade, are often constructed sequentially. From crystallization to embryogenesis, a nucleus or seed is formed and built upon. Sequential assembly allows for initiation, signaling, and logical programming, which are necessary for making enclosed, hierarchical structures. Although biology relies on such schemes, they have not been available in materials science. Here, we demonstrate programmed sequential self-assembly of DNA functionalized emulsions. The droplets are initially inert because the grafted DNA strands are pre-hybridized in pairs. Active strands on initiator droplets then displace one of the paired strands and thus release its complement, which in turn activates the next droplet in the sequence, akin to living polymerization. Our strategy provides time and logic control during the self-assembly process, and offers a new perspective on the synthesis of materials.},
+issn={2041-1723},
+doi={10.1038/s41467-017-00070-0},
+url={https://doi.org/10.1038/s41467-017-00070-0}
+}
+
+
+
+
+
+@Article{Yin2008,
+author={Yin, Peng
+and Choi, Harry M. T.
+and Calvert, Colby R.
+and Pierce, Niles A.},
+title={Programming biomolecular self-assembly pathways},
+journal={Nature},
+year={2008},
+month={Jan},
+day={17},
+publisher={Nature Publishing Group SN  -},
+volume={451},
+pages={318 EP  -},
+url={http://dx.doi.org/10.1038/nature06451}
+}
+
+@Article{Yurke2000,
+author={Yurke, Bernard
+and Turberfield, Andrew J.
+and Mills Jr, Allen P.
+and Simmel, Friedrich C.
+and Neumann, Jennifer L.},
+title={A DNA-fuelled molecular machine made of DNA},
+journal={Nature},
+year={2000},
+month={Aug},
+day={10},
+publisher={Macmillian Magazines Ltd. SN  -},
+volume={406},
+pages={605 EP  -},
+url={http://dx.doi.org/10.1038/35020524}
+}
+
+
+@Article{Zhang2011,
+author={Zhang, David Yu
+and Seelig, Georg},
+title={Dynamic DNA nanotechnology using strand-displacement reactions},
+journal={Nature Chemistry},
+year={2011},
+month={Jan},
+day={24},
+publisher={Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved. SN  -},
+volume={3},
+pages={103 EP  -},
+note={Review Article},
+url={http://dx.doi.org/10.1038/nchem.957}
+}
+
+
+
+
+﻿﻿
+@Article{Douglas2009,
+author={Douglas, Shawn M.
+and Dietz, Hendrik
+and Liedl, Tim
+and H{\"o}gberg, Bj{\"o}rn
+and Graf, Franziska
+and Shih, William M.},
+title={Self-assembly of DNA into nanoscale three-dimensional shapes},
+journal={Nature},
+year={2009},
+month={May},
+day={21},
+publisher={Macmillan Publishers Limited. All rights reserved SN  -},
+volume={459},
+pages={414 EP  -},
+url={http://dx.doi.org/10.1038/nature08016}
+}
+
+@article{origamiTiles,
+author = {Zhao, Zhao and Liu, Yan and Yan, Hao},
+title = {Organizing DNA Origami Tiles into Larger Structures Using Preformed Scaffold Frames},
+journal = {Nano Letters},
+volume = {11},
+number = {7},
+pages = {2997-3002},
+year = {2011},
+doi = {10.1021/nl201603a},
+note ={PMID: 21682348},
+URL = {http://dx.doi.org/10.1021/nl201603a},
+eprint = {http://dx.doi.org/10.1021/nl201603a}
+}
+
+
+@article{CotranRNA,
+author = {Geary, Cody and Rothemund, Paul W. K. and Andersen, Ebbe S.},
+title = {A single-stranded architecture for cotranscriptional folding of RNA nanostructures},
+volume = {345},
+number = {6198},
+pages = {799-804},
+year = {2014},
+doi = {10.1126/science.1253920},
+abstract ={Artificial DNA and RNA structures have been used as scaffolds for a variety of nanoscale devices. In comparison to DNA structures, RNA structures have been limited in size, but they also have advantages: RNA can fold during transcription and thus can be genetically encoded and expressed in cells. We introduce an architecture for designing artificial RNA structures that fold from a single strand, in which arrays of antiparallel RNA helices are precisely organized by RNA tertiary motifs and a new type of crossover pattern. We constructed RNA tiles that assemble into hexagonal lattices and demonstrated that lattices can be made by annealing and/or cotranscriptional folding. Tiles can be scaled up to 660 nucleotides in length, reaching a size comparable to that of large natural ribozymes.},
+URL = {http://www.sciencemag.org/content/345/6198/799.abstract},
+eprint = {http://www.sciencemag.org/content/345/6198/799.full.pdf},
+journal = {Science}
+}
+
+@article{SchulmanRedundancy,
+author = {Schulman, Rebecca and Wright, Christina and Winfree, Erik},
+title = {Increasing Redundancy Exponentially Reduces Error Rates during Algorithmic Self-Assembly},
+journal = {ACS Nano},
+volume = {9},
+number = {6},
+pages = {5760-5771},
+year = {2015},
+doi = {10.1021/nn507493s},
+    note ={PMID: 25965580}
+}
+
+@article{RoachOrigami,
+author = {Amir, Yaniv and Ben-Ishay, Eldad and Levner, Daniel and Ittah, Shmulik and Abu-Horowitz, Almogit and Bachelet, Ido},
+title = {Universal computing by DNA origami robots in a living animal},
+journal = {Nat Nano},
+volume = {9},
+number = {5},
+pages = {353-357},
+year = {2014},
+doi = {10.1038/nnano.2014.58}
+}
+
+@article {SignalTilesExperimental,
+author = {Padilla, Jennifer E. and Sha, Ruojie and Kristiansen, Martin and Chen, Junghuei and Jonoska, Natasha and Seeman, Nadrian C.},
+title = {A Signal-Passing DNA-Strand-Exchange Mechanism for Active Self-Assembly of DNA Nanostructures},
+journal = {Angewandte Chemie International Edition},
+publisher = {WILEY-VCH Verlag},
+issn = {1521-3773},
+url = {http://dx.doi.org/10.1002/anie.201500252},
+doi = {10.1002/anie.201500252},
+keywords = {DNA structures, DNA tiles, nanotechnology, self-assembly, strand displacement},
+year = {2015},
+}
+
+@article{MesoArch,
+  title = {DNA-programmed mesoscopic architecture},
+  author = {Halverson, Jonathan D. and Tkachenko, Alexei V.},
+  journal = {Phys. Rev. E},
+  volume = {87},
+  issue = {6},
+  pages = {062310},
+  numpages = {7},
+  year = {2013},
+  month = {Jun},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevE.87.062310},
+  url = {http://link.aps.org/doi/10.1103/PhysRevE.87.062310}
+}
+
+@article {NBlocks,
+author = {Kim, Jin-Woo and Kim, Jeong-Hwan and Deaton, Russell},
+title = {DNA-Linked Nanoparticle Building Blocks for Programmable Matter},
+journal = {Angewandte Chemie International Edition},
+volume = {50},
+number = {39},
+publisher = {WILEY-VCH Verlag},
+issn = {1521-3773},
+url = {http://dx.doi.org/10.1002/anie.201102342},
+doi = {10.1002/anie.201102342},
+pages = {9185--9190},
+keywords = {DNA, nanoparticles, nanotechnology, programmable matter, self-assembly},
+year = {2011},
+}
+
+@article {NBLOCKS2,
+author = {Kim, Jin-Woo and Deaton, Russell},
+title = {Molecular Self-Assembly of Multifunctional Nanoparticle Composites with Arbitrary Shapes and Functions: Challenges and
+Strategies},
+journal = {Particle and Particle Systems Characterization},
+volume = {30},
+number = {2},
+issn = {1521-4117},
+url = {http://dx.doi.org/10.1002/ppsc.201200129},
+doi = {10.1002/ppsc.201200129},
+pages = {117--132},
+keywords = {self-assembly, DNA, mono-functionalization, nanoparticle, nano-building blocks, programmable matter, multifunctional
+nanostructure, nanotechnology, nanomedicine, nano-theranostics},
+year = {2013},
+}
+
+@article{pinheiro2011challenges,
+  title={Challenges and opportunities for structural DNA nanotechnology},
+  author={Pinheiro, Andre V and Han, Dongran and Shih, William M and Yan, Hao},
+  journal={Nature nanotechnology},
+  volume={6},
+  number={12},
+  pages={763--772},
+  year={2011},
+  publisher={Nature Publishing Group}
+}
+
+@article{han2013dna,
+  title={DNA Gridiron Nanostructures Based on Four-Arm Junctions},
+  author={Han, Dongran and Pal, Suchetan and Yang, Yang and Jiang, Shuoxing and Nangreave, Jeanette and Liu, Yan and Yan, Hao},
+  journal={Science},
+  volume={339},
+  number={6126},
+  pages={1412--1415},
+  year={2013},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{ke2012three,
+  title={Three-Dimensional Structures Self-Assembled from DNA Bricks},
+  author={Ke, Yonggang and Ong, Luvena L and Shih, William M and Yin, Peng},
+  journal={Science},
+  volume={338},
+  number={6111},
+  pages={1177--1183},
+  year={2012},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{wei2012complex,
+  title={Complex shapes self-assembled from single-stranded DNA tiles},
+  author={Wei, Bryan and Dai, Mingjie and Yin, Peng},
+  journal={Nature},
+  volume={485},
+  number={7400},
+  pages={623--626},
+  year={2012},
+  publisher={Nature Publishing Group}
+}
+
+@Article{C2CC37227D,
+author ="Costa Santini, Cristina and Bath, Jonathan and Tyrrell, Andy M. and Turberfield, Andrew J.",
+title  ="A clocked finite state machine built from DNA",
+journal  ="Chem. Commun.",
+year  ="2013",
+volume  ="49",
+issue  ="3",
+pages  ="237-239",
+publisher  ="The Royal Society of Chemistry",
+doi  ="10.1039/C2CC37227D",
+url  ="http://dx.doi.org/10.1039/C2CC37227D",
+abstract  ="We implement a finite state machine by representing state{,} transition rules and input symbols with DNA components. Transitions between states are triggered by a clock signal which allows synchronized{,} parallel operation of two (or more) state machines. The state machine can be re-programmed by changing the input symbols."}
+
+@article{rothemund2004algorithmic,
+  title={Algorithmic self-assembly of DNA Sierpinski triangles},
+  author={Rothemund, Paul WK and Papadakis, Nick and Winfree, Erik},
+  journal={PLoS biology},
+  volume={2},
+  number={12},
+  pages={e424},
+  year={2004},
+  publisher={Public Library of Science}
+}
+
+@article{zeng2002exc,
+title={Exchange-coupled nanocomposite magnets by nanoparticle self-assembly.},
+author={Zeng, H. and Li, J. and Liu, J.P. and Wang, Z.L. and Sun, S.},
+journal={Nature},
+volume={420},
+number={6914},
+pages={395-8},
+year={2002},
+abstract={Exchange-spring magnets are nanocomposites that are composed of magnetically hard and soft phases that interact by magnetic exchange coupling. Such systems are promising for advanced permanent magnetic applications, as they have a large energy product--the combination of permanent magnet field and magnetization--compared to traditional, single-phase materials. Conventional techniques, including melt-spinning, mechanical milling and sputtering, have been explored to prepare exchange-spring magnets. However, the requirement that both the hard and soft phases are controlled at the nanometre scale, to ensure efficient exchange coupling, has posed significant preparation challenges. Here we report the fabrication of exchange-coupled nanocomposites using nanoparticle self-assembly. In this approach, both FePt and Fe3O4 particles are incorporated as nanometre-scale building blocks into binary assemblies. Subsequent annealing converts the assembly into FePt-Fe3Pt nanocomposites, where FePt is a magnetically hard phase and Fe3Pt a soft phase. An optimum exchange coupling, and therefore an optimum energy product, can be obtained by independently tuning the size and composition of the individual building blocks. We have produced exchange-coupled isotropic FePt-Fe3Pt nanocomposites with an energy product of 20.1 MG Oe, which exceeds the theoretical limit of 13 MG Oe for non-exchange-coupled isotropic FePt by over 50 per cent.}
+}
+
+@article{OrigamiBox,
+    abstract = {The unique structural motifs and self-recognition properties of DNA can be exploited to generate self-assembling DNA nanostructures of specific shapes using a 'bottom-up' approach1. Several assembly strategies have been developed for building complex three-dimensional (3D) DNA nanostructures2, 3, 4, 5, 6, 7, 8. Recently, the DNA 'origami' method was used to build two-dimensional addressable DNA structures of arbitrary shape9 that can be used as platforms to arrange nanomaterials with high precision and specificity9, 10, 11, 12, 13. A long-term goal of this field has been to construct fully addressable 3D DNA nanostructures14, 15. Here we extend the DNA origami method into three dimensions by creating an addressable DNA box 42Â Â 36Â Â 36Â nm3 in size that can be opened in the presence of externally supplied DNA 'keys'. We thoroughly characterize the structure of this DNA box using cryogenic transmission electron microscopy, small-angle X-ray scattering and atomic force microscopy, and use fluorescence resonance energy transfer to optically monitor the opening of the lid. Controlled access to the interior compartment of this DNA nanocontainer could yield several interesting applications, for example as a logic sensor for multiple-sequence signals or for the controlled release of nanocargos.},
+    author = {Andersen, Ebbe S. and Dong, Mingdong and Nielsen, Morten M. and Jahn, Kasper and Subramani, Ramesh and Mamdouh, Wael and Golas, Monika M. and Sander, Bjoern and Stark, Holger and Oliveira, Cristiano L. P. and Pedersen, Jan S. and Birkedal, Victoria and Besenbacher, Flemming and Gothelf, Kurt V. and Kjems, Jorgen},
+    citeulike-article-id = {4480638},
+    citeulike-linkout-0 = {http://dx.doi.org/10.1038/nature07971},
+    citeulike-linkout-1 = {http://dx.doi.org/10.1038/nature07971},
+    citeulike-linkout-2 = {http://view.ncbi.nlm.nih.gov/pubmed/19424153},
+    citeulike-linkout-3 = {http://www.hubmed.org/display.cgi?uids=19424153},
+    day = {07},
+    doi = {10.1038/nature07971},
+    issn = {0028-0836},
+    journal = {Nature},
+    keywords = {dna-nanotechnology},
+    month = {May},
+    number = {7243},
+    pages = {73--76},
+    posted-at = {2009-11-17 20:21:16},
+    priority = {2},
+    publisher = {Nature Publishing Group},
+    title = {Self-assembly of a nanoscale DNA box with a controllable lid},
+    url = {http://dx.doi.org/10.1038/nature07971},
+    volume = {459},
+    year = {2009}
+}
+
+@article{TurberfieldRobots2011,
+  title={A programmable molecular robot},
+  author={Muscat, Richard A and Bath, Jonathan and Turberfield, Andrew J},
+  journal={Nano letters},
+  volume={11},
+  number={3},
+  pages={982--987},
+  year={2011},
+  publisher={ACS Publications}
+}
+
+@article{WinfreeDNARobots2010,
+    abstract = {Traditional robots1 rely for their function on computing, to store internal representations of their goals and environment and to coordinate sensing and any actuation of components required in response. Moving robotics to the single-molecule level is possible in principle, but requires facing the limited ability of individual molecules to store complex information and programs. One strategy to overcome this problem is to use systems that can obtain complex behaviour from the interaction of simple robots with their environment2, 3, 4. A first step in this direction was the development of DNA walkers5, which have developed from being non-autonomous6, 7 to being capable of directed but brief motion on one-dimensional tracks8, 9, 10, 11. Here we demonstrate that previously developed random walkers12â€”so-called molecular spiders that comprise a streptavidin molecule as an inert 'body' and three deoxyribozymes as catalytic 'legs'â€”show elementary robotic behaviour when interacting with a precisely defined environment. Single-molecule microscopy observations confirm that such walkers achieve directional movement by sensing and modifying tracks of substrate molecules laid out on a two-dimensional DNA origami landscape13. When using appropriately designed DNA origami, the molecular spiders autonomously carry out sequences of actions such as 'start', 'follow', 'turn' and 'stop'. We anticipate that this strategy will result in more complex robotic behaviour at the molecular level if additional control mechanisms are incorporated. One example might be interactions between multiple molecular robots leading to collective behaviour14, 15; another might be the ability to read and transform secondary cues on the DNA origami landscape as a means of implementing Turing-universal algorithmic behaviour2, 16, 17.},
+    author = {Lund, Kyle and Manzo, Anthony J. and Dabby, Nadine and Michelotti, Nicole and Johnson-Buck, Alexander and Nangreave, Jeanette and Taylor, Steven and Pei, Renjun and Stojanovic, Milan N. and Walter, Nils G. and Winfree, Erik and Yan, Hao},
+    citeulike-article-id = {7160702},
+    citeulike-linkout-0 = {http://dx.doi.org/10.1038/nature09012},
+    citeulike-linkout-1 = {http://dx.doi.org/10.1038/nature09012},
+    day = {13},
+    doi = {10.1038/nature09012},
+    issn = {0028-0836},
+    journal = {Nature},
+    keywords = {target, targeting},
+    month = {May},
+    number = {7295},
+    pages = {206--210},
+    posted-at = {2010-05-12 19:15:22},
+    priority = {2},
+    publisher = {Nature Publishing Group},
+    title = {Molecular robots guided by prescriptive landscapes},
+    url = {http://dx.doi.org/10.1038/nature09012},
+    volume = {465},
+    year = {2010}
+}
+
+@article{SeemanDNARobots2010,
+    abstract = {Our ability to synthesize nanometre-scale chemical species, such as nanoparticles with desired shapes and compositions, offers the exciting prospect of generating new functional materials and devices by combining them in a controlled fashion into larger structures. Self-assembly can achieve this task efficiently, but may be subject to thermodynamic and kinetic limitations: reactants, intermediates and products may collide with each other throughout the assembly time course to produce non-target species instead of target species. An alternative approach to nanoscale assembly uses information-containing molecules such as DNA1 to control interactions and thereby minimize unwanted cross-talk between different components. In principle, this method should allow the stepwise and programmed construction of target products by linking individually selected nanoscale componentsâ€”much as an automobile is built on an assembly line. Here we demonstrate that a nanoscale assembly line can be realized by the judicious combination of three known DNA-based modules: a DNA origami2 tile that provides a framework and track for the assembly process, cassettes containing three independently controlled two-state DNA machines that serve as programmable cargo-donating devices3, 4 and are attached4, 5 in series to the tile, and a DNA walker that can move on the track from device to device and collect cargo. As the walker traverses the pathway prescribed by the origami tile track, it sequentially encounters the three DNA devices, each of which can be independently switched between an 'ON' state, allowing its cargo to be transferred to the walker, and an 'OFF' state, in which no transfer occurs. We use three different types of gold nanoparticle species as cargo and show that the experimental system does indeed allow the controlled fabrication of the eight different products that can be obtained with three two-state devices.},
+    author = {Gu, Hongzhou and Chao, Jie and Xiao, Shou-Jun and Seeman, Nadrian C.},
+    citeulike-article-id = {7167514},
+    citeulike-linkout-0 = {http://dx.doi.org/10.1038/nature09026},
+    citeulike-linkout-1 = {http://dx.doi.org/10.1038/nature09026},
+    day = {13},
+    doi = {10.1038/nature09026},
+    issn = {0028-0836},
+    journal = {Nature},
+    keywords = {molecular\_motor},
+    month = {May},
+    number = {7295},
+    pages = {202--205},
+    posted-at = {2010-05-19 15:58:37},
+    priority = {2},
+    publisher = {Nature Publishing Group},
+    title = {A proximity-based programmable DNA nanoscale assembly line},
+    url = {http://dx.doi.org/10.1038/nature09026},
+    volume = {465},
+    year = {2010}
+}
+
+@article{SANanocrystalSheets,
+author = {Tang, Zhiyong and Zhang, Zhenli and Wang, Ying and Glotzer, Sharon C. and Kotov, Nicholas A.},
+title = {{Self-Assembly of CdTe Nanocrystals into Free-Floating Sheets}},
+journal = {Science},
+volume = {314},
+number = {5797},
+pages = {274-278},
+doi = {10.1126/science.1128045},
+year = {2006},
+abstract = {In their physical dimensions, surface chemistry, and degree of anisotropic interactions in solution, CdTe nanoparticles are similar to proteins. We experimentally observed their spontaneous, template-free organization into free-floating particulate sheets, which resemble the assembly of surface layer (S-layer) proteins. Computer simulation and concurrent experiments demonstrated that the dipole moment, small positive charge, and directional hydrophobic attraction are the driving forces for the self-organization process. The data presented here highlight the analogy of the solution behavior of the two vastly different classes of chemical structures.
+},
+URL = {http://www.sciencemag.org/cgi/content/abstract/314/5797/274},
+eprint = {http://www.sciencemag.org/cgi/reprint/314/5797/274.pdf}
+}
+
+@article{SACrystals,
+author = {Kalsin, Alexander M. and Fialkowski, Marcin and Paszewski, Maciej and Smoukov, Stoyan K. and Bishop, Kyle J. M. and Grzybowski, Bartosz A.},
+title = {{Electrostatic Self-Assembly of Binary Nanoparticle Crystals with a Diamond-Like Lattice}},
+journal = {Science},
+volume = {312},
+number = {5772},
+pages = {420-424},
+doi = {10.1126/science.1125124},
+year = {2006},
+abstract = {Self-assembly of charged, equally sized metal nanoparticles of two types (gold and silver) leads to the formation of large, sphalerite (diamond-like) crystals, in which each nanoparticle has four oppositely charged neighbors. Formation of these non-close-packed structures is a consequence of electrostatic effects specific to the nanoscale, where the thickness of the screening layer is commensurate with the dimensions of the assembling objects. Because of electrostatic stabilization of larger crystallizing particles by smaller ones, better-quality crystals can be obtained from more polydisperse nanoparticle solutions.
+},
+URL = {http://www.sciencemag.org/cgi/content/abstract/312/5772/420},
+eprint = {http://www.sciencemag.org/cgi/reprint/312/5772/420.pdf}
+}
+	
+@article{SANanofiberScaffold,
+author = {Hartgerink, Jeffrey D. and Beniash, Elia and Stupp, Samuel I.},
+title = {{Self-Assembly and Mineralization of Peptide-Amphiphile Nanofibers}},
+journal = {Science},
+volume = {294},
+number = {5547},
+pages = {1684-1688},
+doi = {10.1126/science.1063187},
+year = {2001},
+URL = {http://www.sciencemag.org/cgi/content/abstract/294/5547/1684},
+eprint = {http://www.sciencemag.org/cgi/reprint/294/5547/1684.pdf}
+}
+
+@article{SANanowires,
+author = {Yan, Hao and Park, Sung Ha and Finkelstein, Gleb and Reif, John H. and LaBean, Thomas H.},
+title = {{DNA-Templated Self-Assembly of Protein Arrays and Highly Conductive Nanowires}},
+journal = {Science},
+volume = {301},
+number = {5641},
+pages = {1882-1884},
+doi = {10.1126/science.1089389},
+year = {2003},
+abstract = {A DNA nanostructure consisting of four four-arm junctions oriented with a square aspect ratio was designed and constructed. Programmable self-assembly of 4 x 4 tiles resulted in two distinct lattice morphologies: uniform-width nanoribbons and two-dimensional nanogrids, which both display periodic square cavities. Periodic protein arrays were achieved by templated self-assembly of streptavidin onto the DNA nanogrids containing biotinylated oligonucleotides. On the basis of a two-step metallization procedure, the 4 x 4 nanoribbons acted as an excellent scaffold for the production of highly conductive, uniform-width, silver nanowires.
+},
+URL = {http://www.sciencemag.org/cgi/content/abstract/301/5641/1882},
+eprint = {http://www.sciencemag.org/cgi/reprint/301/5641/1882.pdf}
+}
+
+@article{Whitesides16042002,
+author = {Whitesides, George M. and Boncheva, Mila},
+title = {Beyond molecules: Self-assembly of mesoscopic and macroscopic components},
+volume = {99},
+number = {8},
+pages = {4769-4774},
+year = {2002},
+doi = {10.1073/pnas.082065899},
+abstract ={Self-assembly is a process in which components, either separate or linked, spontaneously form ordered aggregates. Self-assembly can occur with components having sizes from the molecular to the macroscopic, provided that appropriate conditions are met. Although much of the work in self-assembly has focused on molecular components, many of the most interesting applications of self-assembling processes can be found at larger sizes (nanometers to micrometers). These larger systems also offer a level of control over the characteristics of the components and over the interactions among them that makes fundamental investigations especially tractable.},
+URL = {http://www.pnas.org/content/99/8/4769.abstract},
+eprint = {http://www.pnas.org/content/99/8/4769.full.pdf},
+journal = {Proceedings of the National Academy of Sciences}
+}
+
+@article{YaoNanoparticles1,
+  author={Dongbao Yao and Tingjie Song and Bin Zheng and Shiyan Xiao and Fujian Huang and Haojun Liang},
+  title={The combination of gold nanorods and nanoparticles with DNA nanodevices for logic gates construction},
+  journal={Nanotechnology},
+  volume={26},
+  number={42},
+  pages={425601},
+  url={http://stacks.iop.org/0957-4484/26/i=42/a=425601},
+  year={2015},
+  abstract={In this work, two DNA nanodevices were constructed utilizing a DNA strand displacement reaction. With the assistance of gold nanoparticles (AuNPs) and gold nanorods (AuNRs), the autonomous reactions can be reflected from the aggregation states of nanoparticles. By sequence design and the two non-overlapping double hump-like UV–vis spectral peaks of AuNPs and AuNRs, two logic gates with multiple inputs and outputs were successfully run with expected outcomes. This method not only shows how to achieve computing with multiple logic calculations but also has great potential for multiple targets detection.}
+}
+
+@article {Rogers639,
+	author = {Rogers, W. Benjamin and Manoharan, Vinothan N.},
+	title = {Programming colloidal phase transitions with DNA strand displacement},
+	volume = {347},
+	number = {6222},
+	pages = {639--642},
+	year = {2015},
+	doi = {10.1126/science.1259762},
+	publisher = {American Association for the Advancement of Science},
+	abstract = {Colloidal particles have been used as atom mimics and are often connected together using complementary DNA strands. Rogers and Manoharan controlled the strength of the colloidal {\textquotedblleft}bond{\textquotedblright} by using a set of competing strand displacement reactions. They capitalized on the reversible chemical equilibrium between the DNA strands connecting different particles to control the temperature dependence of the equilibrium state.Science, this issue p. 639 DNA-grafted nanoparticles have been called {\textquotedblleft}programmable atom-equivalents{\textquotedblright}: Like atoms, they form three-dimensional crystals, but unlike atoms, the particles themselves carry information (the sequences of the grafted strands) that can be used to {\textquotedblleft}program{\textquotedblright} the equilibrium crystal structures. We show that the programmability of these colloids can be generalized to the full temperature-dependent phase diagram, not just the crystal structures themselves. We add information to the buffer in the form of soluble DNA strands designed to compete with the grafted strands through strand displacement. Using only two displacement reactions, we program phase behavior not found in atomic systems or other DNA-grafted colloids, including arbitrarily wide gas-solid coexistence, reentrant melting, and even reversible transitions between distinct crystal phases.},
+	issn = {0036-8075},
+	URL = {http://science.sciencemag.org/content/347/6222/639},
+	eprint = {http://science.sciencemag.org/content/347/6222/639.full.pdf},
+	journal = {Science}
+}
+
+@articls {MirkinNanoparticles,
+    author = {Mirkin, Chad A. and Letsinger, Robert L. and Mucic, Robert C. and Storhoff, James J.},
+    title = {A DNA-based method for rationally assembling nanoparticles into macroscopic materials},
+    journal = {Nature},
+    volume = {382},
+    pages = {607--609},
+    year = {1996},
+    publisher = {Nature Publishing Group}
+}

@@ -1,0 +1,26 @@
+\begin{thebibliography}{1}
+
+\bibitem{alumbaugh2019simulation}
+J.~C. Alumbaugh, J.~J. Daymude, E.~D. Demaine, M.~J. Patitz, and A.~W. Richa.
+\newblock Simulation of programmable matter systems using active tile-based
+  self-assembly.
+\newblock In {\em International Conference on DNA Computing and Molecular
+  Programming}, pages 140--158. Springer, 2019.
+
+\bibitem{caballero2021verification}
+D.~Caballero, T.~Gomez, R.~Schweller, and T.~Wylie.
+\newblock Verification and computation in restricted tile automata.
+\newblock {\em Natural Computing}, pages 1--19, 2021.
+
+\bibitem{cantu2020signal}
+A.~A. Cantu, A.~Luchsinger, R.~Schweller, and T.~Wylie.
+\newblock Signal passing self-assembly simulates tile automata.
+\newblock 2020.
+
+\bibitem{chalk2018freezing}
+C.~Chalk, A.~Luchsinger, E.~Martinez, R.~Schweller, A.~Winslow, and T.~Wylie.
+\newblock Freezing simulates non-freezing tile automata.
+\newblock In {\em International Conference on DNA Computing and Molecular
+  Programming}, pages 155--172. Springer, 2018.
+
+\end{thebibliography}
